@@ -35,5 +35,13 @@
         "branch-alias": {
         },
         "laravel": {}
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "conflict": {},
+    "suggest": {},
+    "scripts": {},
+    "config": {
+        "sort-packages": true
     }
 }

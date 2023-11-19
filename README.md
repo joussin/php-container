@@ -1,4 +1,9 @@
+"provide": {
+"psr/container-implementation": "1.1|2.0"
+},
 
+
+        "psr/container": "^2.0"
 
 ## Example:
 
